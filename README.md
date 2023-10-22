@@ -1,1 +1,1 @@
-# Giro
+# ShopGiro
